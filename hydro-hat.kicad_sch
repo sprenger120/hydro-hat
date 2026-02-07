@@ -3972,6 +3972,16 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "todo optocoupler"
+		(exclude_from_sim no)
+		(at 36.83 179.324 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "3549c1eb-30ef-4374-bc9e-d7a8d7accd9d")
+	)
 	(text "Todo wheatstone bridge + opamp"
 		(exclude_from_sim no)
 		(at 117.094 74.676 0)
